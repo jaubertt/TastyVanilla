@@ -1,0 +1,12 @@
+{
+  "type": "minecraft:smelting",
+  "category": "misc",
+  "ingredient": [
+    "tastyvanilla:dough_baked_bread"
+  ],
+  "result": {
+    "id": "tastyvanilla:bread_baked"
+  },
+  "experience": 0.1,
+  "cookingtime": 100
+}

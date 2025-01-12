@@ -1,0 +1,69 @@
+{
+  //COOKIES
+  "item.tastyvanilla.cookie_sweet_berry": "Sweet Berry Cookie",
+  "item.tastyvanilla.cookie_glow_berry": "Glow Berry Cookie",
+  "item.tastyvanilla.cookie_honey": "Honey Cookie",
+  "item.tastyvanilla.cookie_poppy_seed": "Poppy Seed Cookie",
+  "item.tastyvanilla.cookie_sunflower_seed": "Sunflower Seed Cookie",
+  "item.tastyvanilla.cookie_carrot": "Carrot Cookie",
+  "item.tastyvanilla.cookie_apple": "Apple Cookie",
+  "item.tastyvanilla.cookie_pumpkin": "Pumpkin Cookie",
+  "item.tastyvanilla.cookie_spider_eye": "Spider Eye Cookie",
+  "item.tastyvanilla.cookie_oatmeal": "Oatmeal Cookie",
+  "item.tastyvanilla.cookie_sugar": "Sugar Cookie",
+
+  //BREAD INGREDIENTS
+  "item.tastyvanilla.butter": "Butter",
+  "item.tastyvanilla.flour": "Flour",
+  "item.tastyvanilla.salt": "Salt",
+  "item.tastyvanilla.yeast": "Yeast",
+
+  //DOUGHS
+  "item.tastyvanilla.dough_baguel": "Baguel Dough",
+  "item.tastyvanilla.dough_baguette": "Baguette Dough",
+  "item.tastyvanilla.dough_baked_bread": "Baked Bread Dough",
+  "item.tastyvanilla.dough_brownie": "Brownie Dough",
+  "item.tastyvanilla.dough_croissant": "Croissant Dough",
+  "item.tastyvanilla.dough_flatbread": "Flatbread Dough",
+  "item.tastyvanilla.dough_focaccia": "Focaccia Dough",
+  "item.tastyvanilla.dough_honey": "Honey Dough",
+  "item.tastyvanilla.dough_multigrain": "Multigrain Dough",
+  "item.tastyvanilla.dough_pancakes": "Pancakes Dough",
+  "item.tastyvanilla.dough_sourdough": "Sourdough Dough",
+  "item.tastyvanilla.dough_sweet_roll": "Sweet Roll Dough",
+
+  //BREAD
+  "item.tastyvanilla.bread_baguel": "Baguel",
+  "item.tastyvanilla.bread_baguette": "Baguette",
+  "item.tastyvanilla.bread_baked": "Baked Bread",
+  "item.tastyvanilla.bread_brownie": "Brownie",
+  "item.tastyvanilla.bread_croissant": "Croissant",
+  "item.tastyvanilla.bread_flatbread": "Flatbread",
+  "item.tastyvanilla.bread_focaccia": "Focaccia",
+  "item.tastyvanilla.bread_honey": "Honey Bread",
+  "item.tastyvanilla.bread_multigrain": "Multigrain Bread",
+  "item.tastyvanilla.bread_pancakes": "Pancakes",
+  "item.tastyvanilla.bread_sourdough": "Sourdough Bread",
+  "item.tastyvanilla.bread_sweet_roll": "Sweet Roll",
+
+  //PIES
+  "item.tastyvanilla.pie_apple": "Apple Pie",
+  "item.tastyvanilla.pie_chicken": "Chicken Pie",
+  "item.tastyvanilla.pie_chocolate": "Chocolate Pie",
+  "item.tastyvanilla.pie_chorus_fruit": "Chorus Fruit Pie",
+  "item.tastyvanilla.pie_fish": "Fish Pie",
+  "item.tastyvanilla.pie_glow_berry": "Glow Berry Pie",
+  "item.tastyvanilla.pie_honey": "Honey Pie",
+  "item.tastyvanilla.pie_meat": "Meat Pie",
+  "item.tastyvanilla.pie_melon": "Melon Pie",
+  "item.tastyvanilla.pie_mushroom": "Mushroom Pie",
+  "item.tastyvanilla.pie_shepherds": "Shepherd's Pie",
+  "item.tastyvanilla.pie_sweet_berry": "Sweet Berry Pie",
+  "item.tastyvanilla.pie_vegetable": "Vegetable Pie",
+
+  //BLOCKS
+  "block.tastyvanilla.salt_block": "Block of Salt",
+  "item.tastyvanilla.salt_block": "Block of Salt",
+  "block.tastyvanilla.sugar_block": "Block of Sugar",
+  "item.tastyvanilla.sugar_block": "Block of Sugar"
+}

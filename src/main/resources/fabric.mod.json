@@ -1,0 +1,40 @@
+{
+	"schemaVersion": 1,
+	"id": "tastyvanilla",
+	"version": "${1}",
+	"name": "TastyVanilla",
+	"description": "Tasty Vanilla enriches your game with new food-related content, all designed to blend seamlessly with the vanilla mechanics of the game.",
+	"authors": [
+		"Jaubert"
+	],
+	"contact": {
+		"homepage": "https://fabricmc.net/",
+		"sources": "https://github.com/FabricMC/fabric-example-mod"
+	},
+	"license": "MIT",
+	"icon": "assets/tastyvanilla/icon.png",
+	"environment": "*",
+	"entrypoints": {
+		"main": [
+			"tastyvanilla.TastyVanilla"
+		],
+		"fabric-datagen": [
+			"tastyvanilla.TastyVanillaDataGenerator"
+		],
+		"client": [
+			"tastyvanilla.TastyVanillaClient"
+		]
+	},
+	"mixins": [
+		"tastyvanilla.mixins.json"
+	],
+	"depends": {
+		"fabricloader": ">=0.16.9",
+		"minecraft": "~1.21.4",
+		"java": ">=21",
+		"fabric-api": "*"
+	},
+	"suggests": {
+		"another-mod": "*"
+	}
+}
